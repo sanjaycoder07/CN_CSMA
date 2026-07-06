@@ -1,2 +1,2 @@
-# CN_CSMA
+# Computer_Networks
 CN ASSINGMENT 
